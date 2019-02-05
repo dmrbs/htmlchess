@@ -1,0 +1,1 @@
+html ile dama tahtası yapımı.
